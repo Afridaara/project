@@ -56,11 +56,24 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
+## Construit avec Ubuntu
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+Afridaara est une variante d'Ubuntu, pourquoi Ubuntu parce que c'est un système d'exploitation1) libre, gratuit, sécurisé et convivial.
+
+* [Téléchargez  Ubuntu](https://www.ubuntu.com/download)
+* [Téléchargez  Edbuntu](https://www.edubuntu.org/download)
+
+Les principes et idéaux entourant la communauté et **Afridaara** sont les mêmes que ceux définissant Ubuntu : que les logiciels devraient être disponibles gratuitement ; que les outils logiciels devraient être utilisables par tous dans leur langue natale ou locale, et malgré les handicaps ; et que les utilisateurs devraient avoir la liberté de personnaliser, modifier et créer les logiciels pour l'usage qui leur plaît. Ces libertés font une différence fondamentale entre Edubuntu et les autres logiciels propriétaires : non seulement les outils dont vous avez besoin sont disponibles gratuitement, mais vous et des milliers de développeurs à travers le monde avez le droit de modifier ces outils afin qu'ils remplissent exactement la tâche que vous attendez d'eux.
+
+## Logiciels
+
+Liste des logiciels disponibles
+
+## Personnaliser Ubuntu
+
+Voici quels outils pour Personnaliser Ubuntu
+
+* [Ubuntu-Builder](outils/personnaliser/Ubuntu-Builder.md)
 
 ## Contributing
 
@@ -68,7 +81,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
