@@ -1,6 +1,6 @@
 # Afridaara
 
-Afridaara AfriDaara est une distribution Linux, orientée éducation. Dans cette distribution, vous trouverez tout le programme éducatif sénégalais du Cours d'Initiation (CI) à la Terminale. Le but de la création de cette distribution est de permettre aux:
+AfriDaara est une distribution Linux, orientée éducation. Dans cette distribution, vous trouverez tout le programme éducatif sénégalais du Cours d'Initiation (CI) à la Terminale. Le but de la création de cette distribution est de permettre aux:
 
   Elèves : de se familiariser avec l'outil informatique dès le bas âge, de developper très tôt la capacité de recherche, mais aussi d'acceder à des informations (cours, exercices, examents, correction, etc...)sans pour autant etre connecté sur Internet,
 
